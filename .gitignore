@@ -1,0 +1,10 @@
+**/[Ll]ib
+**/__pycache__
+**/*.exe
+**/*.bat
+**/*.ps1
+**/activate
+**/db.sqlite3
+**/pyvenv.cfg
+
+
