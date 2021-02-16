@@ -1,1 +1,1 @@
-web: gunicorn matte:wsgi
+web: gunicorn matte.wsgi
